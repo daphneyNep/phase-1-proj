@@ -1,0 +1,23 @@
+{
+    "Seafoods": [
+        {
+            "id": 1,
+            "name": "Lobster",
+            "comment": "It's delicious and expensive.",
+            "rating": 8
+           
+        },
+        {
+            "id": 2,
+            "name": "Crab",
+            "comment":"it's the best when it's cooked in seafood boil.", 
+            "rating": 10
+        },
+        {
+            "id": 3,
+            "name":"Shrimp",
+            "comment":"There's many delicious ways to cook it.",
+            "rating": 7
+        }
+    ]
+}
